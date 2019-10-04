@@ -1,2 +1,3 @@
 # currency-converter
-Conversor de Moedas
+
+Aplicativo para conversão de moedas.
